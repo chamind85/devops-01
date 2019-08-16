@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test 6
+=======
+test file 6
+>>>>>>> 1569f3f51d3adc14fb91881bf1aa861e6a7a6316
